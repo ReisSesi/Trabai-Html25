@@ -1,0 +1,11 @@
+img{
+    position: absolute;
+}
+div{
+    width: 300px;
+    font-size: 30px;
+    font-weight: bold;
+    position: relative;
+    left: 240px;
+    top: 90px;
+}
